@@ -4,7 +4,7 @@
 
 ## I'm a undergrad
 
-- 💬 Ask me about ......C
+- 💬 Ask me about ......C,Java
 
 - 📫 Reach me at anupriya250803@gmail.com
 
